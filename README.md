@@ -1,6 +1,7 @@
 <!-- ===================== Banner ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co/Tg8hVZr/github-banner.png" alt="Faysal Ahmed Banner" width="100%" />
+ <img width="1584" height="396" alt="BLack Minimalist Corporate Staff Identity LinkedIn Banner" src="https://github.com/user-attachments/assets/d9c783f4-0b06-4c11-bb8a-deb4a60a59f5" />
+
 </p>
 
 <div align="center" style="background: rgba(0, 0, 255, 0.15); padding: 30px; border-radius: 20px; backdrop-filter: blur(10px); box-shadow: 0 4px 25px rgba(0,0,255,0.15);">

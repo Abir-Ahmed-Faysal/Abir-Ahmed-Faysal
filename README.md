@@ -1,6 +1,6 @@
 <!-- ===================== Banner ===================== -->
 <p align="center">
- <img width="1584" height="396" alt="BLack Minimalist Corporate Staff Identity LinkedIn Banner" src="https://github.com/user-attachments/assets/d9c783f4-0b06-4c11-bb8a-deb4a60a59f5" />
+ <img width="1648" height="412" alt="BLack Minimalist Corporate Staff Identity LinkedIn Banner" src="https://github.com/user-attachments/assets/d9c783f4-0b06-4c11-bb8a-deb4a60a59f5" />
 
 </p>
 
